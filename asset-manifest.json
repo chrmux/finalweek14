@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/finalweek14/static/css/main.073c9b0a.css",
+    "main.js": "/finalweek14/static/js/main.54965831.js",
+    "static/js/787.32d11401.chunk.js": "/finalweek14/static/js/787.32d11401.chunk.js",
+    "static/media/logo.svg": "/finalweek14/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/finalweek14/index.html",
+    "main.073c9b0a.css.map": "/finalweek14/static/css/main.073c9b0a.css.map",
+    "main.54965831.js.map": "/finalweek14/static/js/main.54965831.js.map",
+    "787.32d11401.chunk.js.map": "/finalweek14/static/js/787.32d11401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.54965831.js"
+  ]
+}
